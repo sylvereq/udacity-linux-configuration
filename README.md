@@ -16,5 +16,5 @@ No URL available
 - Sys packages updated
 
 # Third-Party resources
-Docker 
-Python
+- Docker 
+- Python
