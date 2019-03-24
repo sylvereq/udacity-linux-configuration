@@ -10,7 +10,7 @@ Is used Docker to serve the application instead of doing it with a WSGI Applicat
 No URL available
 
 # Configuration Summary
-- SSH changes (Port, Authentication method) 
+- SSH changes (Port (2200), Authentication method) 
 - Port changes (SSH, Webserver, NTP)
 - Created grader user
 - Sys packages updated
