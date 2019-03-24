@@ -3,6 +3,9 @@
 # Note
 Is used Docker to serve the application instead of doing it with a WSGI Application. Sorry but i thought it is more useful in the future to use docker and i wanted to know how it works :)
 
+# Project
+https://github.com/sylvereq/fullstack-catalog
+
 # IP address
 54.93.118.234
 
