@@ -17,7 +17,16 @@ No URL available
 - Port changes (SSH, Webserver, NTP)
 - Created grader user
 - Sys packages updated
+- Root access
+- Firewall changes
+
+# Installed Software
+- Docker
+- Python (with SQLAlchemy, Flask, oauth2client, urllib, json, requests)
+- Fullstack Catalog App as Container
+- SQLite
 
 # Third-Party resources
 - Docker 
 - Python
+- Ubuntu
